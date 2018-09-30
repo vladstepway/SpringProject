@@ -1,0 +1,275 @@
+[INFO ] 2018-09-30 21:41:51.959 [RMI TCP Connection(3)-127.0.0.1] MyAppServletContextListener - ServletContextListener started
+[INFO ] 2018-09-30 21:41:52.837 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 21:41:52.851 [http-nio-8080-exec-1] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 21:41:52.864 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.882 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.883 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.925 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.925 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.925 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.925 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.925 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.929 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 21:41:52.967 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 21:41:52.967 [http-nio-8080-exec-2] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 21:41:52.970 [http-nio-8080-exec-2] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.971 [http-nio-8080-exec-2] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.971 [http-nio-8080-exec-2] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.972 [http-nio-8080-exec-2] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.973 [http-nio-8080-exec-2] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.973 [http-nio-8080-exec-2] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.973 [http-nio-8080-exec-2] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.974 [http-nio-8080-exec-2] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:52.975 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 21:41:53.753 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 21:41:53.754 [http-nio-8080-exec-3] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 21:41:53.755 [http-nio-8080-exec-3] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:53.755 [http-nio-8080-exec-3] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:53.755 [http-nio-8080-exec-3] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:53.756 [http-nio-8080-exec-3] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:53.756 [http-nio-8080-exec-3] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:53.756 [http-nio-8080-exec-3] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:53.756 [http-nio-8080-exec-3] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:53.756 [http-nio-8080-exec-3] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 21:41:53.757 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:20:05.429 [localhost-startStop-2] MyAppServletContextListener - ServletContextListener destroyed
+[INFO ] 2018-09-30 23:28:54.010 [RMI TCP Connection(3)-127.0.0.1] MyAppServletContextListener - ServletContextListener started
+[INFO ] 2018-09-30 23:28:54.873 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:28:54.898 [http-nio-8080-exec-1] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:28:55.770 [http-nio-8080-exec-1] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:28:55.775 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:28:56.161 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:28:56.161 [http-nio-8080-exec-2] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:28:56.161 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:28:58.636 [http-nio-8080-exec-4] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:28:58.637 [http-nio-8080-exec-4] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:28:58.637 [http-nio-8080-exec-4] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:28:58.637 [http-nio-8080-exec-4] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:29:00.412 [http-nio-8080-exec-5] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:29:00.413 [http-nio-8080-exec-5] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:29:00.435 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:00.439 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:00.439 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:00.439 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:00.439 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:00.439 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:00.439 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:00.448 [http-nio-8080-exec-5] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:29:31.069 [http-nio-8080-exec-8] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:29:31.069 [http-nio-8080-exec-8] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:29:31.069 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.069 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.070 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.070 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.070 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.070 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.070 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.070 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.084 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.085 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.085 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.089 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.122 [http-nio-8080-exec-8] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:29:31.122 [http-nio-8080-exec-8] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:29:46.015 [localhost-startStop-2] MyAppServletContextListener - ServletContextListener destroyed
+[INFO ] 2018-09-30 23:29:59.050 [RMI TCP Connection(3)-127.0.0.1] MyAppServletContextListener - ServletContextListener started
+[INFO ] 2018-09-30 23:29:59.615 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:29:59.627 [http-nio-8080-exec-1] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:30:00.130 [http-nio-8080-exec-1] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:30:00.135 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:30:00.143 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:30:00.143 [http-nio-8080-exec-2] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:30:00.143 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:30:00.461 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:30:00.461 [http-nio-8080-exec-3] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:30:00.461 [http-nio-8080-exec-3] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:30:00.463 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:30:04.669 [http-nio-8080-exec-6] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:30:04.760 [http-nio-8080-exec-6] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:30:04.800 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.802 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.802 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.802 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.802 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.803 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.803 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.806 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.811 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.811 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.812 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.817 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.852 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:30:04.852 [http-nio-8080-exec-6] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:31:21.482 [localhost-startStop-2] MyAppServletContextListener - ServletContextListener destroyed
+[INFO ] 2018-09-30 23:31:32.326 [RMI TCP Connection(3)-127.0.0.1] MyAppServletContextListener - ServletContextListener started
+[INFO ] 2018-09-30 23:31:32.867 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:31:32.879 [http-nio-8080-exec-1] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:31:33.565 [http-nio-8080-exec-1] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:31:33.570 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:31:33.579 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:31:33.580 [http-nio-8080-exec-2] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:31:33.580 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:31:33.749 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:31:33.749 [http-nio-8080-exec-3] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:31:33.750 [http-nio-8080-exec-3] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:31:33.751 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:33:51.600 [http-nio-8080-exec-6] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:33:51.616 [http-nio-8080-exec-6] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:33:51.636 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.638 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.638 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.638 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.639 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.639 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.639 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.641 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.647 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.647 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.648 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.653 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.685 [http-nio-8080-exec-6] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-09-30 23:33:51.685 [http-nio-8080-exec-6] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:34:49.806 [localhost-startStop-2] MyAppServletContextListener - ServletContextListener destroyed
+[INFO ] 2018-09-30 23:35:03.960 [RMI TCP Connection(3)-127.0.0.1] MyAppServletContextListener - ServletContextListener started
+[INFO ] 2018-09-30 23:35:04.772 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:35:04.783 [http-nio-8080-exec-1] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:35:05.362 [http-nio-8080-exec-1] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:35:05.367 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:35:05.374 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:35:05.374 [http-nio-8080-exec-2] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:35:05.375 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:35:05.851 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:35:05.852 [http-nio-8080-exec-3] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:35:05.853 [http-nio-8080-exec-3] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:35:05.854 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:35:09.314 [http-nio-8080-exec-4] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:35:09.314 [http-nio-8080-exec-4] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:35:09.427 [http-nio-8080-exec-4] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:35:11.882 [http-nio-8080-exec-7] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:35:11.882 [http-nio-8080-exec-7] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:35:11.882 [http-nio-8080-exec-7] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:35:17.210 [localhost-startStop-1] MyAppServletContextListener - ServletContextListener destroyed
+[INFO ] 2018-09-30 23:37:01.122 [RMI TCP Connection(3)-127.0.0.1] MyAppServletContextListener - ServletContextListener started
+[INFO ] 2018-09-30 23:37:01.727 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:37:01.740 [http-nio-8080-exec-1] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:37:02.294 [http-nio-8080-exec-1] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:37:02.302 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:37:02.310 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-09-30 23:37:02.310 [http-nio-8080-exec-2] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:37:02.310 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-09-30 23:37:02.384 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:37:02.384 [http-nio-8080-exec-3] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-09-30 23:37:02.384 [http-nio-8080-exec-3] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-09-30 23:37:02.386 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-09-30 23:38:06.915 [localhost-startStop-2] MyAppServletContextListener - ServletContextListener destroyed
+[INFO ] 2018-10-01 00:00:29.447 [RMI TCP Connection(5)-127.0.0.1] MyAppServletContextListener - ServletContextListener started
+[INFO ] 2018-10-01 00:00:30.488 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-10-01 00:00:30.510 [http-nio-8080-exec-1] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:00:31.340 [http-nio-8080-exec-1] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-10-01 00:00:31.348 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-10-01 00:00:31.363 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to come into scope of the Web application. 127.0.0.1
+[INFO ] 2018-10-01 00:00:31.363 [http-nio-8080-exec-2] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:00:31.363 [http-nio-8080-exec-2] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-10-01 00:00:31.364 [http-nio-8080-exec-2] MyServletRequestListener - The request is about to go out of scope of the Web application 127.0.0.1
+[INFO ] 2018-10-01 00:00:31.830 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:00:31.830 [http-nio-8080-exec-3] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:00:31.830 [http-nio-8080-exec-3] MyAppHttpSessionListener - HTTP session has just been activated
+[INFO ] 2018-10-01 00:00:31.831 [http-nio-8080-exec-3] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:00:32.065 [http-nio-8080-exec-4] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:00:32.065 [http-nio-8080-exec-4] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:00:32.095 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:32.097 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:32.097 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:32.097 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:32.097 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:32.098 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:32.098 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:32.105 [http-nio-8080-exec-4] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:00:35.186 [http-nio-8080-exec-5] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:00:35.187 [http-nio-8080-exec-5] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:00:35.187 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.187 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.187 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.187 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.187 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.187 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.187 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.187 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.198 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.198 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.198 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.203 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.235 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.235 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.235 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.235 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.235 [http-nio-8080-exec-5] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:00:35.239 [http-nio-8080-exec-5] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:01:28.797 [http-nio-8080-exec-9] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:01:28.798 [http-nio-8080-exec-9] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:01:28.798 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.798 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.798 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.798 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.798 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.798 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.798 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.799 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.799 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.799 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.799 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.800 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.804 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.805 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.805 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.805 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:28.805 [http-nio-8080-exec-9] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:29.170 [http-nio-8080-exec-9] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:01:44.229 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:01:44.229 [http-nio-8080-exec-1] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:01:44.229 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.229 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.231 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.231 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.231 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.231 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.231 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.231 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.231 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.231 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.231 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.232 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.236 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.236 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.236 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.236 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.236 [http-nio-8080-exec-1] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:01:44.238 [http-nio-8080-exec-1] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:07:22.927 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] MyAppHttpSessionListener - HTTP session is about to be passivated
+[INFO ] 2018-10-01 00:07:22.928 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] MyAppHttpSessionListener - HTTP session is about to be passivated
+[INFO ] 2018-10-01 00:14:50.982 [http-nio-8080-exec-4] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:14:50.982 [http-nio-8080-exec-4] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.983 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.984 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.986 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.986 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.986 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.986 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.986 [http-nio-8080-exec-4] MyServletRequestAttributeListener - new  attribute is added to the servlet request
+[INFO ] 2018-10-01 00:14:50.989 [http-nio-8080-exec-4] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:14:55.890 [http-nio-8080-exec-5] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:14:55.890 [http-nio-8080-exec-5] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:14:55.927 [http-nio-8080-exec-6] MyServletRequestListener - The request is about to come into scope of the Web application. 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:14:55.927 [http-nio-8080-exec-6] MyServletRequestAttributeListener - attribute gets replaced on the servlet request
+[INFO ] 2018-10-01 00:14:56.236 [http-nio-8080-exec-6] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
+[INFO ] 2018-10-01 00:14:56.237 [http-nio-8080-exec-5] MyServletRequestListener - The request is about to go out of scope of the Web application 0:0:0:0:0:0:0:1
