@@ -59,7 +59,7 @@ public class UtilClass {
             if (additionalPartOfYear >= NULL_YEARS &&
                     additionalPartOfYear <= border)
                 return FIRST_YEAR_OF_21_CENTURY + additionalPartOfYear;
-            else if (additionalPartOfYear >= border &&
+            else if (additionalPartOfYear > border &&
                     additionalPartOfYear <= LAST_YEAR_OF_20_CENTURY)
                 return FIRST_YEAR_OF_20_CENTURY + additionalPartOfYear;
         }

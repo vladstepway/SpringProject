@@ -31,22 +31,17 @@ public class UtilClassTest {
     private String date17;
     private String date18;
     private String date19;
-    private String year1;
-    private String year2;
-    private String year3;
-    private String year4;
-    private String year5;
-    private String year6;
-    ArrayList<Integer> splittedDate1;
-    ArrayList<Integer> splittedDate2;
-    ArrayList<Integer> splittedDate3;
-    ArrayList<Integer> splittedDate4;
-    ArrayList<Integer> splittedDate5;
-    ArrayList<Integer> splittedDate6;
-    ArrayList<Integer> splittedDate7;
-    ArrayList<Integer> splittedDate8;
-    ArrayList<Integer> splittedDate9;
-    ArrayList<Integer> splittedDate10;
+
+    private ArrayList<Integer> splittedDate1;
+    private ArrayList<Integer> splittedDate2;
+    private ArrayList<Integer> splittedDate3;
+    private ArrayList<Integer> splittedDate4;
+    private ArrayList<Integer> splittedDate5;
+    private ArrayList<Integer> splittedDate6;
+    private ArrayList<Integer> splittedDate7;
+    private ArrayList<Integer> splittedDate8;
+    private ArrayList<Integer> splittedDate9;
+    private ArrayList<Integer> splittedDate10;
 
     @Before
     public void setUp() throws Exception {
@@ -70,12 +65,7 @@ public class UtilClassTest {
         date17 = "7.5.2012";//6
         date18 = "7.5.12";//6
         date19 = "aa.bb.cccc";//false
-        year1 = "2012";
-        year2 = "2013";
-        year3 = "1980";
-        year4 = "1981";
-        year5 = "56";
-        year6 = "13";
+
         splittedDate1 = UtilClass.splittingDate(date1);
         splittedDate2 = UtilClass.splittingDate(date3);
         splittedDate3 = UtilClass.splittingDate(date4);
@@ -254,10 +244,12 @@ public class UtilClassTest {
     public void testCalcDaysToNextBirthday4() {
         assertEquals(218, UtilClass.calcDaysToNextBirthday(splittedDate4));
     }
+
     @Test
     public void testCalcDaysToNextBirthday5() {
         assertEquals(218, UtilClass.calcDaysToNextBirthday(splittedDate5));
     }
+
     @Test
     public void testCalcDaysToNextBirthday6() {
 
@@ -278,6 +270,7 @@ public class UtilClassTest {
     public void testCalcDaysToNextBirthday9() {
         assertEquals(218, UtilClass.calcDaysToNextBirthday(splittedDate9));
     }
+
     @Test
     public void testCalcDaysToNextBirthday10() {
         assertEquals(218, UtilClass.calcDaysToNextBirthday(splittedDate10));
