@@ -4,21 +4,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home</title>
+    <title>Birthday</title>
 </head>
 <body>
 <header>
-    Author of project :<%= propertyReader.getProperty("groupId")%>
+    <jsp:include page="WEB-INF/views/header.jsp"/>
+
 </header>
 <p><b>Enter birthday:</b></p>
 <form method="post" action="/result">
     Birthday: <input type="text" name="birthday"><br>
     <input type="submit" value="Result">
 </form>
-<br>
+
 <footer>
-    version :<%=propertyReader.getProperty("version")%><br>
-    build time :<%= propertyReader.getProperty("build")%><br>
+    <jsp:include page="WEB-INF/views/footer.jsp"/>
+
 </footer>
 </body>
 </html>

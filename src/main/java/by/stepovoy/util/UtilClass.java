@@ -89,14 +89,6 @@ public class UtilClass {
         return resultDate;
     }
 
-//    private static int daysInCurrentYear() {
-//        int currentYear = Integer.parseInt(new SimpleDateFormat("yyyy").format(new Date()));
-//        if (isLeap(currentYear)) {
-//            return DAYS_IN_LEAP_YEAR;
-//        }
-//        return DAYS_IN_NORMAL_YEAR;
-//    }
-
     private static boolean isLeap(int year) {
         if (year < 0 || year == 0)
             return false;
